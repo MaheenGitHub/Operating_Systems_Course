@@ -1,11 +1,11 @@
-# Operating Systems Course Material
+## Operating Systems Course Material
 
 This repository contains **Operating Systems course material** compiled for academic study and revision.  
 It covers both **theoretical concepts** and **practical resources** commonly taught in BSIT / Computer Science programs.
 
 ---
 
-## 📘 Course Coverage
+### 📘 Course Coverage
 
 The repository includes material related to:
 
@@ -19,24 +19,24 @@ The repository includes material related to:
 
 ---
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 
-### 🔹 Books
+**🔹 Books**
 Reference textbook for Operating Systems.
 
-### 🔹 Class Slides
+**🔹 Class Slides**
 Lecture slides used during the course.
 
-### 🔹 Class Notes
+**🔹 Class Notes**
 Fun Class Memories
 
-### 🔹 Deep Pockets
+**🔹 Deep Pockets**
 Extra reference PDFs for concept clarification.
 
-### 🔹 OS Lab
+**🔹 OS Lab**
 Lab manuals and lab-related resources.
 
-### 🔹 Other Resources
+**🔹 Other Resources**
 Helpful OS-related material including:
 - Linux Commands Cheat Sheet  
 - System Call vs Interrupt  
@@ -44,12 +44,12 @@ Helpful OS-related material including:
 - Multithreading vs Multiprocessing  
 - User vs Kernel Level Threads  
 
-### 🔹 Quizzes
+**🔹 Quizzes**
 Quiz questions and solutions for practice.
 
 ---
 
-## 🎯 Who Is This Repository For?
+### 🎯 Who Is This Repository For?
 
 - BSIT / Computer Science students  
 - Juniors studying Operating Systems  
@@ -58,23 +58,22 @@ Quiz questions and solutions for practice.
 
 ---
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 All material shared in this repository is **for educational purposes only**.  
 Ownership of lecture slides, PDFs, and books belongs to the respective authors or instructors.
 
 ---
 
-## ⭐ Support
+### ⭐ Support
 
 If you find this repository helpful, feel free to **star ⭐ it**.  
 Suggestions and improvements are welcome.
 
 ---
 
-## 👩‍💻 Maintained By
+### 👩‍💻 Maintained By
 
 **Maheen Fatima**
-
 
 BSIT F22 (PUCIT)
