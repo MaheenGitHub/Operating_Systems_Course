@@ -22,7 +22,7 @@ The repository includes material related to:
 ## 📂 Repository Structure
 
 ### 🔹 Books
-Reference textbooks for Operating Systems.
+Reference textbook for Operating Systems.
 
 ### 🔹 Class Slides
 Lecture slides used during the course.
@@ -75,4 +75,6 @@ Suggestions and improvements are welcome.
 ## 👩‍💻 Maintained By
 
 **Maheen Fatima**
+
+
 BSIT F22 (PUCIT)
